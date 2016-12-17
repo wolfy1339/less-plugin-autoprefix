@@ -22,8 +22,8 @@
         "node": ">=0.4.2"
     },
     "dependencies": {
-        "autoprefixer": "^6.3.0",
-        "postcss": "^5.0.0"
+        "autoprefixer": "^6.5.4",
+        "postcss": "^5.2.6"
     },
     "keywords": [
         "less plugins",
